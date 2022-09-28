@@ -14,13 +14,13 @@ export default siteConfig({
   author: 'Enes DÖKE',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Kariyer Z - Anlamlı bir kariyer peşinde olan genç yetenekler için haftalık eposta bülteni.',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
-  // newsletter: '#', // optional newsletter URL
+  twitter: 'enesdoke',
+  //github: 'transitive-bullshit',
+  linkedin: 'enesdoke',
+  newsletter: 'kariyerz.substack.com', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
