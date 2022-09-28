@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: 'enesdoke',
   //github: 'transitive-bullshit',
   linkedin: 'enesdoke',
-  newsletter: 'kariyerz.substack.com', // optional newsletter URL
+  newsletter: 'https://kariyerz.substack.com', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
