@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Kariyer Z',
-  domain: 'kariyerz.com.tr',
+  domain: 'https://euphonious-starship-1a778a.netlify.app/',
   author: 'Enes DÖKE',
 
   // open graph metadata (optional)
